@@ -1,0 +1,11 @@
+svg{
+    stroke-width: 15px;
+    fill: none;
+    stroke-linecap: round;
+}
+.circle{
+    stroke: #c5c6c7;
+}
+.cross{
+    stroke: #45a29e;
+}
